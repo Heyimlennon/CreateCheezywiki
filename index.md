@@ -49,7 +49,7 @@ Open an issue or pull request on [[Discord](https://discord.gg/YYU5TcRzsm). and 
   
   <!-- Optional: redirect and spam protection -->
   <input type="hidden" name="_captcha" value="false">
-  <input type="hidden" name="_next" value="https://yourusername.github.io/thankyou.html">
+  <input type="hidden" name="_next" value="https://yourusername.github.io/thankyou.md">
   
   <button type="submit" style="padding: 10px; background: #007bff; color: white; border: none; border-radius: 5px;">Send Message</button>
 </form>
