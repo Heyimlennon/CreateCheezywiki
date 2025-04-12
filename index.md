@@ -18,6 +18,7 @@ Welcome to the official wiki for the **Create Cheezy** Minecraft mod!
 - [Getting Started](getting-started.md)
 - [Items & Blocks](items.md)
 - [Crafting Recipes](recipes.md)
+- [Developer](developer.md)
 
 ---
 
