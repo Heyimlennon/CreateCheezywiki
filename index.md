@@ -33,5 +33,5 @@ Create Cheezy expands the Create Mod by introducing:
 ## 👨‍💻 Contributing
 
 Found a bug or want to contribute to the wiki?  
-Open an issue or pull request on [[GitHub](https://www.curseforge.com/minecraft/mc-mods/create-cheezy). and message me 
+Open an issue or pull request on [[Discord](https://discord.gg/YYU5TcRzsm). and message me 
 
