@@ -16,7 +16,7 @@
 
 ---
 
-## 🧀 third Recipe Meme Cheese
+## 🧀 Third Recipe Meme Cheese
 
 **Meme Cheese:**
 -  8x Charcoal
