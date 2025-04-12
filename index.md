@@ -50,7 +50,7 @@ Open an issue or pull request on [Discord](https://discord.gg/YYU5TcRzsm). and m
   <button type="submit" style="padding: 10px; background: #007bff; color: white; border: none; border-radius: 5px;">Send Message</button>
 </form>
 
-## 🧀 Ok so when you click this it will say unsecure but it is this is just a warning so it doesnt confuse you
+## Ok so when you click this it will say unsecure but it is this is just a warning so it doesnt confuse you
 <script>
   function toggleForm() {
     const form = document.getElementById("contactForm");
