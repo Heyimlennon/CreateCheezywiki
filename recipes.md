@@ -21,3 +21,11 @@
 **Meme Cheese:**
 -  8x Charcoal
 -  1x Cheese
+
+---
+
+## 🧀 Forth Recipe Cheese wheel
+
+**Cheese wheel:**
+-  8x cheese
+*in a cheese wheel postion in a crafting table*
