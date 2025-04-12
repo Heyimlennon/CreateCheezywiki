@@ -1,4 +1,5 @@
 ## Developers
 
-![Cheezy](./images/New%20Project.png)
-![Heyimlennon](./images/Project.png)
+![Cheezy] Asset and semi code maker
+
+![Heyimlennon] Owner of the project and semi code maker
