@@ -6,7 +6,7 @@ title: Create Cheezy Wiki
 
 Welcome to the official wiki for the **Create Cheezy** Minecraft mod!
 
-> 🍞 Create Cheezy is an addon for the [Create Mod](https://www.curseforge.com/minecraft/mc-mods/create) that adds **cheese-based technology, automation**, and delicious new mechanics to your game!
+> 🍞 Create Cheezy is an addon for the [Create Mod](https://www.curseforge.com/minecraft/mc-mods/create) that adds **new cheese items and blocks to make your game more delicious and i hope you enjoy!
 
 ## 🔗 Downloads
 
@@ -17,9 +17,7 @@ Welcome to the official wiki for the **Create Cheezy** Minecraft mod!
 
 - [Getting Started](getting-started.md)
 - [Items & Blocks](items.md)
-- [Machines & Automation](machines.md)
 - [Crafting Recipes](recipes.md)
-- [FAQ](faq.md)
 
 ---
 
