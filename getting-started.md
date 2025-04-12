@@ -9,6 +9,7 @@ To begin using Create Cheezy:
 
 ## First Steps
 
-- Craft your first **Cheese Wheel**
-- Set up a **Milk Collector**
-- Use a **Cheese Press** to start automation!
+- load a world
+- get basic create machines
+- and a power source
+and you done 
