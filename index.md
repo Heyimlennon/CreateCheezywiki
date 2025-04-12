@@ -25,23 +25,13 @@ Welcome to the official wiki for the **Create Cheezy** Minecraft mod!
 
 Create Cheezy expands the Create Mod by introducing:
 
-- What you need to do is to get a 3x3 auto crafter and you can make cheese
-- Cheese powder is gunpowder and yellow dye
-- then you get cheese
+- CHEESE more cheese items
 - And more
-
-It’s all about building fun, food-based automation!
-
----
-
-## 📷 Screenshots
-
-> *(Add screenshots of your mod in action!)*
 
 ---
 
 ## 👨‍💻 Contributing
 
 Found a bug or want to contribute to the wiki?  
-Open an issue or pull request on [[GitHub](https://www.curseforge.com/minecraft/mc-mods/create-cheezy).
+Open an issue or pull request on [[GitHub](https://www.curseforge.com/minecraft/mc-mods/create-cheezy). and message me 
 
