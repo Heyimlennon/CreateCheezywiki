@@ -12,7 +12,7 @@
 
 **Cheese Recipe:**
 - 1x cheese powder
-- 1x furnace
+- 1x blast furnace
 
 ---
 
